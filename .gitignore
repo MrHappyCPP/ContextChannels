@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+#Visual Code
+*.code-workspace
+
+
+#The Executable
+ContextChannels
